@@ -1,10 +1,9 @@
 
 
 Modeling Crypto-Currency Trends with Recurrent Neural Networks using Long Short Term Memory
------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
 
-
-Description:
+Description
 ---------------
  - This project is an effort to see trends in the price of crypto-currencies. While Crypto is volitile and
    almost any attempt to predict the future of crypto is essentially a random walk, I believe modeling shorter
